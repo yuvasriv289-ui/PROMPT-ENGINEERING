@@ -140,7 +140,7 @@ architectures. As research advances, we can expect more efficient and ethical ap
 further transforming industries globally.
 
 ### 3. Generative AI applications.
-### Output:
+
 Comprehensive Report on Generative AI Applications
 1. Introduction Generative Artificial Intelligence (AI) is a subset of AI that focuses on creating new
 data, content, or patterns based on input data. It employs machine learning models,
